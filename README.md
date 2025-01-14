@@ -13,10 +13,12 @@ A content-based movie recommendation system 🎬 that suggests movies similar to
   - scikit-learn
   - streamlit
 ## Installation 
-Clone the repository: git clone https://github.com/your-username/netflixnook.git cd netflixnook
+Clone the repository: git clone https://github.com/sameo-varghese/Flix-Recmend.git
 ## Install the required libraries:
+On the integrated terminal run:
 pip install pandas scikit-learn streamlit
 ## Run the Streamlit app:
+On the integrated terminal run:
 streamlit run app.py
 ## Usage
 - Enter a movie name in the input field.
